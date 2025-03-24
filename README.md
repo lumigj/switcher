@@ -1,5 +1,7 @@
 # Switcher
 
+### This project is currently not actively managed.
+
 Please read and follow the steps and instructions carefully as if you were reading your exam paper questions!
 It is really easy to use and if you get stuck somewhere, please do double check the instructions and do not
 spam me in my DM or comments.
